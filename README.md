@@ -3,9 +3,9 @@
 ### About me
 Hello! 👋🏻 
 
-I'm Nitch, a developer from Thailand 🇹🇭 . 
+I'm Nitch, a developer from Thailand 🇹🇭 
 
-I'm currently living in Abu Dhabi (UAE 🇦🇪 ).
+I'm currently living in Abu Dhabi (UAE 🇦🇪 )
 
 ### Skills
 Kotlin | Java | JavaScript | C#
