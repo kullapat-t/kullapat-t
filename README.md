@@ -1,7 +1,9 @@
 ![](https://github.com/kullapat-t/kullapat-t/blob/master/kt-space.png)
 
 ### About me
-Hello!👋🏻 I'm Nitch, a developer from Thailand 🇹🇭 . I'm currently living in Abu Dhabi (UAE 🇦🇪 ).
+Hello! 👋🏻 
+I'm Nitch, a developer from Thailand 🇹🇭 . 
+I'm currently living in Abu Dhabi (UAE 🇦🇪 ).
 
 ### Skills
 Kotlin | Java | JavaScript | C#
